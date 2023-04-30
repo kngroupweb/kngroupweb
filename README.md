@@ -16,7 +16,7 @@
 
 </br>
 
-## About me
+## About us
 - 💬 Ask me about  | ![Python](https://img.shields.io/badge/Python-3.7-informational)
 - 📫 How to reach me | <a href="https://t.me/oibrohimoff">Telegram</a>
 
