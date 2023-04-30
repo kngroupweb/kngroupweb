@@ -54,10 +54,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## **Github Stats**
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=OdilbekIbrohimof&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/kngroupweb/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kngroupweb&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/kngroupweb/github-readme-stats)
 
 ## **Top Langs**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdilbekIbrohimof&layout=compact&theme=highcontrast)](https://github.com/kngroupweb/github-readme-stats)
 
 # Thank You !
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
