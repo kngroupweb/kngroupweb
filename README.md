@@ -57,6 +57,6 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kngroupweb&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/kngroupweb/github-readme-stats)
 
 ## **Top Langs**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdilbekIbrohimof&layout=compact&theme=highcontrast)](https://github.com/kngroupweb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kngroupweb&layout=compact&theme=highcontrast)](https://github.com/kngroupweb/github-readme-stats)
 
 # Thank You !
